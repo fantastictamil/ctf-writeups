@@ -1,0 +1,12 @@
+# Nmap 7.91 scan initiated Mon Aug  2 12:31:16 2021 as: nmap -oN output 10.10.132.98
+Nmap scan report for 10.10.132.98
+Host is up (0.29s latency).
+Not shown: 995 filtered ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+53/tcp   open  domain
+80/tcp   open  http
+135/tcp  open  msrpc
+3389/tcp open  ms-wbt-server
+
+# Nmap done at Mon Aug  2 12:31:40 2021 -- 1 IP address (1 host up) scanned in 23.50 seconds
