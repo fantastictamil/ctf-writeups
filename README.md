@@ -341,7 +341,7 @@ PORT   STATE SERVICE
 Nmap done: 1 IP address (1 host up) scanned in 20.54 seconds
 ```
 
-**full port **
+**full port**
 
 ```bash
 $ nmap 10.10.132.98 -p-
