@@ -459,7 +459,7 @@ Nmap done: 1 IP address (1 host up) scanned in 0.29 seconds
 $ nmap 10.10.132.98 -sT
 ```
 
-**UDP scan **
+**UDP scan**
 
 ```bash
 $ nmap 10.10.132.98 -sU
